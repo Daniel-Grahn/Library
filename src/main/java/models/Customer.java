@@ -4,7 +4,12 @@ import java.util.GregorianCalendar;
 
 import utilities.GenderType;
 
-
+/**
+ * Represents a customer in the library system.
+ * A customer is identified by their personal details such as name, address,
+ * phone number, and email. Each customer has a unique customer number,
+ * a gender, a validity status, and a membership expiry date.
+ */
 public class Customer {
 
 	private String title;
@@ -18,6 +23,19 @@ public class Customer {
 	private boolean isvalid;
 	private Date expiryDate;
 
+	/**
+	 * Constructs a new {@code Customer} object with the specified details.
+	 * The membership expiry date is set to one year from the date of creation.
+	 *
+	 * @param title the customer's title (e.g., Mr., Mrs., Dr.)
+	 * @param firstName the customer's first name
+	 * @param surname the customer's surname
+	 * @param address the customer's address
+	 * @param phoneNumber the customer's phone number
+	 * @param email the customer's email address
+	 * @param customerNumber a unique number identifying the customer
+	 * @param gender the gender of the customer
+	 */
 	public Customer(String title, String firstName, String surname, String address,
 			String phoneNumber, String email, int customerNumber, GenderType gender) {
 
@@ -32,24 +50,50 @@ public class Customer {
 		gCal.add(GregorianCalendar.YEAR, 1);
 		this.expiryDate = gCal.getTime();
 	}
-	
+
+	/**
+	 * Returns the customer's first name.
+	 * @return the first name of the customer
+	 */
 	public String getFirstName() {
 		return firstName;
 	}
-	
+
+	/**
+	 * Returns the customer's surname.
+	 *
+	 * @return the surname of the customer
+	 */
 	public String getSurname() {
 		return surname;
 	}
+
+	/**
+	 * If needed, the customer's surname can be updated.
+	 *
+	 * @param surname the new surname of the customer
+	 */
 	public void setSurname(String surname) {
 		this.surname = surname;
 	}
-	
+
+	/**
+	 * Updates the customer's title, first name, and surname.
+	 * This method is private and used internally to initialize or update the name.
+	 * @param title the customer's title
+	 * @param firstName the customer's first name
+	 * @param surname the customer's surname
+	 */
 	private void setName(String title, String firstName, String surname) {
 		this.title = title;
 		this.firstName = firstName;
 		this.surname = surname;
 	}
-	
+
+	/**
+	 * Returns a mailing name for the customer in the format
+	 * @return the formatted mailing name of the customer
+	 */
 	public String getMailingName() {
 		StringBuilder sb = new StringBuilder(title);
 		sb.append(" ");
@@ -59,20 +103,38 @@ public class Customer {
 		
 		return sb.toString(); 
 	}
-	
+
+	/**
+	 * Returns the gender of the customer.
+	 *
+	 * @return the gender of the customer
+	 */
 	public GenderType getGender() {
 		return gender;
 	}
 
+	/**
+	 * Returns the membership expiry date of the customer.
+	 * @return the expiry date of the customer's membership
+	 */
 	public Date getExpiryDate() {
 		return expiryDate;
 	}
 
+	/**
+	 * Returns a string representation of the customer, which is their mailing name.
+	 * @return a string representation of the customer
+	 */
 	@Override
 	public String toString() {
 		return getMailingName();
 	}
 
+	/**
+	 * Computes a hash code for this customer based on various fields,
+	 * including address, customer number, email, expiry date, name, gender, and validity.
+	 * @return the hash code for this customer
+	 */
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -93,6 +155,13 @@ public class Customer {
 		return result;
 	}
 
+	/**
+	 * Compares this customer with another object for equality.
+	 * Two customers are considered equal if all their fields match.
+	 *
+	 * @param obj the object to compare with
+	 * @return true if the two customers are equal, else false otherwise
+	 */
 	@Override
 	public boolean equals(Object obj) {
 		if (this == obj)

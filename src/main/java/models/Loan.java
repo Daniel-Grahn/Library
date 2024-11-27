@@ -7,6 +7,11 @@ import java.util.GregorianCalendar;
 import java.time.LocalDate;
 import utilities.LoanStatus;
 
+/**
+ * Represents a loan in a library system.
+ * A loan is associated with a specific customer, a book, and includes details
+ * such as the loan start date, due date, return date, and current status.
+ */
 public class Loan {
 
 private int ID;
@@ -16,8 +21,14 @@ private Date startDate;
 private LocalDate dueDate;
 private Date returnDate;
 private LoanStatus status;
-	
-public Loan(int iD, Customer customer, Book book) {
+
+  /**
+   * A constructor for a loan
+   * @param iD the unique identifier for this loan
+   * @param customer the customer associated with the loan
+   * @param book the book being loaned
+   */
+  public Loan(int iD, Customer customer, Book book) {
   super();
   ID = iD;
   this.customer = customer;
@@ -54,23 +65,42 @@ public boolean equals(Object obj) {
   return true;
 }
 
-public Customer getCustomer() {
+  /**
+   * return who the customer is.
+   * @return customer
+   */
+  public Customer getCustomer() {
   return customer;
 }
 
-public Book getBook() {
+  /**
+   * return the book
+   * @return book
+   */
+  public Book getBook() {
   return book;
 }
 
-public LocalDate getDueDate() {
+  /**
+   * return dueDate Which is the day the book should be returned.
+   * @return dueDate
+   */
+  public LocalDate getDueDate() {
   return dueDate;
 }
-	
-public LoanStatus getStatus() {
+
+  /**
+   *return the status if the book is CURRENT or HISTORIC
+   * @return status
+   */
+  public LoanStatus getStatus() {
   return status;
 }
 
-public void endLoan() {
+  /**
+   * change the status to HISTORIC instead of CURRENT
+   */
+  public void endLoan() {
   returnDate = new Date();
   status = LoanStatus.HISTORIC;
 }

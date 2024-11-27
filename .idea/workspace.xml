@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbf56d0-b4fe-4c63-92a7-a5030d17ab52" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/BookCatalog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/BookCatalog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/BookNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/BookNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Loan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Loan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/LoanAlreadyExistsException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/LoanAlreadyExistsException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/LoanNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/LoanNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/models/Material.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/Material.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/GenderType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/GenderType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utilities/LoanStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utilities/LoanStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/BookCatalogTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/models/BookCatalogTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,54 +35,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JAR Application.Library-1.0-SNAPSHOT-javadoc.jar.executor&quot;: &quot;Run&quot;,
-    &quot;JAR Application.Library-1.0-SNAPSHOT.jar.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.testAddABook.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.testFindBook.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.testFindBookIgnoringCase.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookTest.test2EqualBooks.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BookTest.test2NonEqualBooks.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoanTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.LoanTest.testDueDate.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [compile].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:aggregate-jar].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [package].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [test].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Library [validate].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Danie/IdeaProjects/LibraryWithGradle&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "JAR Application.Library-1.0-SNAPSHOT-javadoc.jar.executor": "Run",
+    "JAR Application.Library-1.0-SNAPSHOT.jar.executor": "Run",
+    "JUnit.BookCatalogTest.executor": "Run",
+    "JUnit.BookCatalogTest.testAddABook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBook.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookIgnoringCase.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookThatDoesntExist.executor": "Run",
+    "JUnit.BookCatalogTest.testFindBookWithExtraSpaces.executor": "Run",
+    "JUnit.BookTest.executor": "Run",
+    "JUnit.BookTest.test2EqualBooks.executor": "Run",
+    "JUnit.BookTest.test2NonEqualBooks.executor": "Run",
+    "JUnit.LoanTest.executor": "Run",
+    "JUnit.LoanTest.testDueDate.executor": "Run",
+    "Maven.Library [clean].executor": "Run",
+    "Maven.Library [compile].executor": "Run",
+    "Maven.Library [org.apache.maven.plugins:maven-javadoc-plugin:3.6.2:aggregate-jar].executor": "Run",
+    "Maven.Library [package].executor": "Run",
+    "Maven.Library [test].executor": "Run",
+    "Maven.Library [validate].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Danie/IdeaProjects/LibraryWithGradle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="JAR Application.Library-1.0-SNAPSHOT-javadoc.jar">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ui.Main" />
-      <module name="Library" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ui.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="JUnit.BookTest">
     <configuration name="BookCatalogTest.testFindBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Library" />
       <extension name="coverage">
@@ -94,6 +82,21 @@
       <option name="MAIN_CLASS_NAME" value="models.BookCatalogTest" />
       <option name="METHOD_NAME" value="testFindBook" />
       <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Library" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="models.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="models" />
+      <option name="MAIN_CLASS_NAME" value="models.BookTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -124,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookTest" />
         <item itemvalue="JAR Application.Library-1.0-SNAPSHOT-javadoc.jar" />
         <item itemvalue="JAR Application.Library-1.0-SNAPSHOT.jar" />
         <item itemvalue="JUnit.BookCatalogTest.testFindBook" />
         <item itemvalue="JUnit.LoanTest.testDueDate" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +155,8 @@
       <workItem from="1732359419733" duration="32275000" />
       <workItem from="1732622540893" duration="3625000" />
       <workItem from="1732635198511" duration="734000" />
+      <workItem from="1732732068775" duration="1000000" />
+      <workItem from="1732737762899" duration="410000" />
     </task>
     <servers />
   </component>
