@@ -1,21 +1,19 @@
 @options
 @packages
---class-path
-'C:/Users/Danie/IdeaProjects/Library/target/classes'
 -encoding
 'UTF-8'
 -protected
 -source
 '17'
 -sourcepath
-'C:/Users/Danie/IdeaProjects/Library/src/main/java;C:/Users/Danie/IdeaProjects/Library/target/generated-sources/annotations'
+'C:/Users/Danie/IdeaProjects/Library/src/main/java'
 -author
 -bottom
 'Copyright &#169; 2024. All rights reserved.'
 -charset
 'UTF-8'
 -d
-'C:/Users/Danie/IdeaProjects/Library/target/apidocs'
+'C:/Users/Danie/IdeaProjects/Library/target/site/apidocs'
 -docencoding
 'UTF-8'
 -doctitle
@@ -27,26 +25,25 @@
 models
 ui
 utilities
-C:\Users\Danie\IdeaProjects\Library\src\main\java = 1732025664557
-C:\Users\Danie\IdeaProjects\Library\target\generated-sources\annotations = 1732485435360
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\allclasses-index.html = 1732485447217
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\allpackages-index.html = 1732485447226
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\copy.svg = 1732485447311
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\element-list = 1732485446946
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\help-doc.html = 1732485447298
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\index-all.html = 1732485447270
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\index.html = 1732485447183
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\link.svg = 1732485447314
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\member-search-index.js = 1732485447239
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\module-search-index.js = 1732485447229
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\overview-summary.html = 1732485447285
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\overview-tree.html = 1732485447173
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\package-search-index.js = 1732485447233
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\script.js = 1732485447307
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\search-page.js = 1732485447323
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\search.html = 1732485447277
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\search.js = 1732485447319
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\serialized-form.html = 1732485447043
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\stylesheet.css = 1732485447303
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\tag-search-index.js = 1732485447241
-C:\Users\Danie\IdeaProjects\Library\target\apidocs\type-search-index.js = 1732485447236
+C:\Users\Danie\IdeaProjects\Library\src\main\java = 1732737624674
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\allclasses-index.html = 1732883018140
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\allpackages-index.html = 1732883018145
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\copy.svg = 1732883018239
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\element-list = 1732883017845
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\help-doc.html = 1732883018228
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\index-all.html = 1732883018192
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\index.html = 1732883018097
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\link.svg = 1732883018241
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\member-search-index.js = 1732883018158
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\module-search-index.js = 1732883018148
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\overview-summary.html = 1732883018203
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\overview-tree.html = 1732883018091
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\package-search-index.js = 1732883018151
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\script.js = 1732883018231
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\search-page.js = 1732883018247
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\search.html = 1732883018197
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\search.js = 1732883018247
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\serialized-form.html = 1732883017946
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\stylesheet.css = 1732883018231
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\tag-search-index.js = 1732883018161
+C:\Users\Danie\IdeaProjects\Library\target\site\apidocs\type-search-index.js = 1732883018155

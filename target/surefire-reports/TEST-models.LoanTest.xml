@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="models.LoanTest" time="0.044" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="models.LoanTest" time="0.046" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SE"/>
     <property name="sun.boot.library.path" value="C:\Users\Danie\AppData\Local\Programs\Eclipse Adoptium\jdk-21.0.4.7-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\Danie\AppData\Local\Temp\surefire10666834869202866029\surefirebooter-20241126131356244_3.jar C:\Users\Danie\AppData\Local\Temp\surefire10666834869202866029 2024-11-26T13-13-55_981-jvmRun1 surefire-20241126131356244_1tmp surefire_0-20241126131356244_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Danie\AppData\Local\Temp\surefire12461180036569812109\surefirebooter-20241129132249753_3.jar C:\Users\Danie\AppData\Local\Temp\surefire12461180036569812109 2024-11-29T13-22-49_491-jvmRun1 surefire-20241129132249753_1tmp surefire_0-20241129132249753_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Danie\IdeaProjects\Library\target\test-classes;C:\Users\Danie\IdeaProjects\Library\target\classes;C:\Users\Danie\.m2\repository\org\junit\jupiter\junit-jupiter\5.11.3\junit-jupiter-5.11.3.jar;C:\Users\Danie\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.11.3\junit-jupiter-api-5.11.3.jar;C:\Users\Danie\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\Danie\.m2\repository\org\junit\platform\junit-platform-commons\1.11.3\junit-platform-commons-1.11.3.jar;C:\Users\Danie\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Danie\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.11.3\junit-jupiter-params-5.11.3.jar;C:\Users\Danie\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.11.3\junit-jupiter-engine-5.11.3.jar;C:\Users\Danie\.m2\repository\org\junit\platform\junit-platform-engine\1.11.3\junit-platform-engine-1.11.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Danie\AppData\Local\Temp\surefire10666834869202866029\surefirebooter-20241126131356244_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Danie\AppData\Local\Temp\surefire12461180036569812109\surefirebooter-20241129132249753_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.4+7-LTS"/>
@@ -60,8 +60,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testDueDate" classname="models.LoanTest" time="0.036">
-    <system-out><![CDATA[2024-12-10
+  <testcase name="testDueDate" classname="models.LoanTest" time="0.043">
+    <system-out><![CDATA[2024-12-13
 ]]></system-out>
   </testcase>
 </testsuite>
