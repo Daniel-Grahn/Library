@@ -6,92 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bbbf56d0-b4fe-4c63-92a7-a5030d17ab52" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/Library-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allclasses-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allpackages-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/allpackages-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/copy.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/copy.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/element-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/element-list" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/ADDITIONAL_LICENSE_INFO" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/legal/ADDITIONAL_LICENSE_INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/ASSEMBLY_EXCEPTION" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/legal/ASSEMBLY_EXCEPTION" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/legal/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jquery.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/legal/jquery.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/legal/jqueryUI.md" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/legal/jqueryUI.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/link.svg" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/link.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/member-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/member-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/BookCatalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/BookNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/Customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/Loan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/LoanAlreadyExistsException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/LoanNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/Material.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/Book.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Book.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/BookCatalog.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/BookCatalog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/BookNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/BookNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/Customer.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Customer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/Loan.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Loan.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/LoanAlreadyExistsException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/LoanAlreadyExistsException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/LoanNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/LoanNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/class-use/Material.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/class-use/Material.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/models/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/models/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/module-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/module-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/package-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/package-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/glass.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/resources/glass.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/resources/x.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/resources/x.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-3.6.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-3.6.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script-dir/jquery-ui.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/script-dir/jquery-ui.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search-page.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/search-page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/search.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/search.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/stylesheet.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/tag-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/tag-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/type-search-index.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/type-search-index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ui/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/ui/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ui/class-use/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/ui/class-use/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ui/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/ui/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ui/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/ui/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/ui/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/ui/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/GenderType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/LoanStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/class-use/GenderType.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/class-use/GenderType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/class-use/LoanStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/class-use/LoanStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/utilities/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/apidocs/utilities/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/Book.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/BookCatalog.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/BookCatalog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/BookNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/BookNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/Loan.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/Loan.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/LoanAlreadyExistsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/LoanAlreadyExistsException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/LoanNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/LoanNotFoundException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/models/Material.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/models/Material.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ui/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ui/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utilities/GenderType.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/GenderType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/utilities/LoanStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/utilities/LoanStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-javadoc-plugin-stale-data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookCatalogTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.BookTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-models.LoanTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookCatalogTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.BookTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/models.LoanTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/models/BookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/models/BookTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/models/LoanTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/models/LoanTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -241,7 +155,8 @@
       <workItem from="1732778817110" duration="4913000" />
       <workItem from="1732815064465" duration="1276000" />
       <workItem from="1732871308181" duration="2696000" />
-      <workItem from="1732882888754" duration="4891000" />
+      <workItem from="1732882888754" duration="6126000" />
+      <workItem from="1733057306785" duration="1476000" />
     </task>
     <servers />
   </component>

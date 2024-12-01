@@ -1,0 +1,19 @@
+De Maven Goals som jag har använt är clean, compile,
+javadoc:javadoc, test, surefire-report:report, package.
+
+clean: Tar bort den nuvarande Targetmappen (om den finns) för
+att få en ran arbetsyta.
+
+compile: Kompilerar Java-källkoden till bytekod.
+
+javadoc:javadoc: Går igenom alla javadoc i skapar en
+API-dokumentation baser på det.
+
+test: går igenom testjavafilerna i testmappen
+
+surefire-report:report: Gör en rapport basserat på testerna.
+Detta gör så att man får en översikt på om testerna lyckades
+eller inte.
+
+package: Paketerar projektet i en körbar fil.
+I detta fallet en jar-fil.
